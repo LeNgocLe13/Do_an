@@ -19,7 +19,7 @@
     <div class="navbar">
       <div class="logo"><a href="#">Lyn's shop</a></div>
       <ul class="nav-links">
-        <li><a href="#">Trang chủ</a></li>
+        <li><a href="#">Trang chủ 12345</a></li>
         <!-- <li><a href="#">Tin tức</a></li> -->
         <li><a href="#product-slide">Sự kiện</a></li>
         <li><a href="#hot-products">Sản Phẩm</a></li>
