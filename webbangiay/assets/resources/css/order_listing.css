@@ -1,0 +1,41 @@
+.order-item-heading{
+    width: 100%;
+}
+
+.order-button{
+    width: 5%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap ;
+}
+.order-time{
+    width: 20%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap ;
+}
+.order-phone{
+    width: 20%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap ;
+}
+.order-address{
+    width: 20%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap ;
+}
+.order-name{
+    width: 20%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap ;
+}
+.order-id{
+    width: 5%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap ;
+}
+
